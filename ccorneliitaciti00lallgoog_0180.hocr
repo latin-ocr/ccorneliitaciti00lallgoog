@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ccorneliitaciti00lallgoog_0180.png"; bbox 0 0 2100 3650; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 577 347 1906 676">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 577 347 1906 676">
+     <span class='ocr_line' id='line_1_1' title="bbox 577 347 1906 425; baseline -0.001 -19"><span class='ocrx_word' id='word_1_1' title='bbox 577 363 969 425; x_wconf 77' lang='lat' dir='ltr'><em>expugnantur.</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1041 347 1308 406; x_wconf 81' lang='lat' dir='ltr'><em>Vitellius</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1365 365 1553 421; x_wconf 70' lang='lat' dir='ltr'><em>eaptus</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1623 350 1906 423; x_wconf 61' lang='lat' dir='ltr'><em>vittamque</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 580 429 1900 505; baseline -0.002 -17"><span class='ocrx_word' id='word_1_5' title='bbox 580 429 830 497; x_wconf 79' lang='lat' dir='ltr'><em>ducitur,</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 869 430 945 485; x_wconf 81' lang='lat' dir='ltr'><em>ad</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 980 447 1272 487; x_wconf 87' lang='lat' dir='ltr'><em>extremum</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1318 429 1664 505; x_wconf 62' lang='lat' dir='ltr'><em>interficitur.</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1715 429 1900 495; x_wconf 77' lang='lat' dir='ltr'><em>Domi-</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 586 509 1903 593; baseline 0.005 -28"><span class='ocrx_word' id='word_1_10' title='bbox 586 510 773 568; x_wconf 82' lang='lat' dir='ltr'><em>tianus</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 800 511 845 567; x_wconf 87' lang='lat' dir='ltr'><em>C</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 840 511 1384 583; x_wconf 25' lang='lat' dir='ltr'><em>aesarrfonsalutatur.</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1412 509 1575 593; x_wconf 78' lang='lat' dir='ltr'><em>Gesta</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1595 532 1706 580; x_wconf 71' lang='lat' dir='ltr'><em>uno</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 1730 513 1903 581; x_wconf 60' lang='lat' dir='ltr'><em>eodm-</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 583 610 883 676; baseline 0.007 -31"><span class='ocrx_word' id='word_1_16' title='bbox 583 610 682 676; x_wconf 58' lang='lat' dir='ltr'><em>que</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 722 611 883 660; x_wconf 83' lang='lat' dir='ltr'><strong><em>anno.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 905 1122 1738 2056">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 905 1122 1738 2056">
+     <span class='ocr_line' id='line_1_5' title="bbox 905 1122 1738 2056; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 905 1122 1738 2056; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
